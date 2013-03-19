@@ -1,0 +1,14 @@
+CLIENT FILE
+CLIENT FILE
+CLIENT FILE
+CLIENT FILE
+CLIENT FILE
+CLIENT FILE
+/*****************************************************
+*		Name: Deepanshu Goyal						 *
+*		Roll No.: 10010118							 *
+*		File Name: Client.c							 *
+*		Networks Assignment 2						 *
+******************************************************/
+
+CSE Department IIT Guwahati
